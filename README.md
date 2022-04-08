@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Zhijie
-- 👀 I’m interested in backend,linux, and algorithm related topics.  
-- 🌱 I’m currently doing a degree on Computer Science at University of Calgary.
+- 👀 I’m interested in system-level programming, and system security. 
+- 🌱 I’m currently doing a honour degree on Computer Science at University of Calgary.
 - 💞️ I’m looking to collaborate on any desktop and web applications.
+- BTW, I use Arch XD
 - 📫 You can reach me via zhijiexiacs@gmail.com
 
 <!---
