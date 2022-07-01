@@ -4,7 +4,7 @@
 - I’m looking to collaborate on any desktop and web applications.
 - BTW, I use Arch XD
 - You can reach me via zhijiexiacs@gmail.com
-- [My website](zhijiexia.dev).
+- [My website](www.zhijiexia.dev).
 
 <!---
 zhijie-os/zhijie-os is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
