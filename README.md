@@ -1,9 +1,10 @@
 - Hi, I’m Zhijie
-- I’m interested in system-level programming, and system security. 
+- I’m interested in system-level programming, and information security in general. 
 - I’m currently doing a honour degree on Computer Science at University of Calgary.
 - I’m looking to collaborate on any desktop and web applications.
 - BTW, I use Arch XD
 - You can reach me via zhijiexiacs@gmail.com
+- [My website](urlzhijiexia.dev).
 
 <!---
 zhijie-os/zhijie-os is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
