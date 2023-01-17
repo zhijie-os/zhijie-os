@@ -1,8 +1,8 @@
 - Hi, I’m Zhijie, please visit my personal [website](https://www.zhijiexia.dev) if you have not
 - I’m interested in system-level programming, and information security in general. 
-- I’m currently doing a honour degree on Computer Science at University of Calgary.
+- I’m currently doing an honour degree in Computer Science at University of Calgary.
 - I’m looking to collaborate on any desktop and web applications.
-- BTW, I use Arch XD
+- I use Arch BTW, xD
 - You can reach me via zhijiexiacs@gmail.com
 
 <!---
